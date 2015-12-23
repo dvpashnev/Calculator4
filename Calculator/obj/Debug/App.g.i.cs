@@ -60,7 +60,7 @@ namespace Calculator {
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "4.0.0.0")]
         public static void Main() {
-            Calculator.App app = new Calculator.App();
+            CalcProcessor.App app = new CalcProcessor.App();
             app.InitializeComponent();
             app.Run();
         }

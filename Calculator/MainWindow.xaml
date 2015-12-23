@@ -154,7 +154,8 @@
                      FontFamily="Times New Roman" FontSize="30"
                      IsReadOnly="True"
                      TextAlignment="Right"  VerticalContentAlignment="Bottom"
-                     BorderBrush="Black" TextChanged="Digits_TextChanged" ScrollViewer.VerticalScrollBarVisibility="Auto" MinLines="2" TextWrapping="Wrap"/>
+                     BorderBrush="Black" ScrollViewer.VerticalScrollBarVisibility="Auto"
+                     MinLines="2" TextWrapping="Wrap"/>
 
         </DockPanel>
 

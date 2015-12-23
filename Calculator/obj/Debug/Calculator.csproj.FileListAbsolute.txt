@@ -59,3 +59,13 @@ d:\!учеба\MSP\TeamOne\Calculator3\Calculator\bin\Debug\Calculator.pdb
 d:\GitHub\Calculator4\Calculator\bin\Debug\Calculator.exe.config
 d:\GitHub\Calculator4\Calculator\obj\Debug\Calculator.exe
 d:\GitHub\Calculator4\Calculator\obj\Debug\Calculator.pdb
+D:\GitHub\Calculator4\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\GitHub\Calculator4\Calculator\obj\Debug\MainWindow.baml
+D:\GitHub\Calculator4\Calculator\obj\Debug\MainWindow.g.cs
+D:\GitHub\Calculator4\Calculator\obj\Debug\App.g.cs
+D:\GitHub\Calculator4\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+D:\GitHub\Calculator4\Calculator\obj\Debug\Calculator.g.resources
+D:\GitHub\Calculator4\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\GitHub\Calculator4\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\GitHub\Calculator4\Calculator\bin\Debug\Calculator.exe
+D:\GitHub\Calculator4\Calculator\bin\Debug\Calculator.pdb
